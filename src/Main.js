@@ -1,7 +1,7 @@
 import React from 'react';
 
 function Main() {
-    var country = Malawi;
+    var country = "Malawi";
     return (
         <div className='MainSect'>
             <main>

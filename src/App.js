@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  var country = Malawi;
+  var country = "Malawi";
   return (
     <>
       <div className='Head'>
